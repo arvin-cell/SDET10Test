@@ -22,5 +22,10 @@ public class DemoTest
 
 		System.out.println("Account modify");
 	}
+	@Test
+	public void rectifytest() 
+	{
 
+		System.out.println("rectify modify");
+	}
 }
